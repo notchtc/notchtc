@@ -4,8 +4,11 @@ Everything I do is on there.
 
 # About Me??
 He/Him
+
 Complete Idiot
+
 GitLab had dark theme earlier lmao
+
 Suckless more like succmore
 
 # Social Media and Others
