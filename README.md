@@ -8,6 +8,6 @@
   - Linux user
 
 # Social Media and Others
-- [Twitter](https://twitter.com/ch40t1x)
+- [Twitter](https://twitter.com/notchtc)
 - [YouTube](https://www.youtube.com/channel/UC-5mLU2LQZQAjWQTCloslBw)
 - Discord: chtc#6831
