@@ -1,6 +1,5 @@
 # cat README.md
-### I'm on [gitlab](https://gitlab.com/chtc)!
-### Everything I do is on there.
+### I'm also on [gitlab](https://gitlab.com/chtc)!
 
 # About Me??
 - I'm an
