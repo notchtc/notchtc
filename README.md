@@ -1,12 +1,9 @@
 # cat README.md
-### I'm also on [gitlab](https://gitlab.com/chtc)!
 
-# About Me??
-- I'm an
-  - Complete Idiot
-  - Linux user
+I'm a dumbass and a Linux user.
 
-# Social Media and Others
-- [Twitter](https://twitter.com/notchtc)
+# Stuff
+- [GitLab](https://gitlab.com/chtc)
 - [YouTube](https://www.youtube.com/channel/UC-5mLU2LQZQAjWQTCloslBw)
-- Discord: chtc#6831
+- [Twitter](https://twitter.com/notchtc)
+- Discord: chtc#9441
